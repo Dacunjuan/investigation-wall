@@ -1,0 +1,2 @@
+mainPanel -> mainTabbedPane -> pagePanel -> mainScrollPane -> MyPanel(MenuBar.java 105)
+                                         -> attributeScrollPanel -> attributePanel
